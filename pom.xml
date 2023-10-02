@@ -14,7 +14,7 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>http://3.111.196.218:9980/</sonar.host.url>
+	<sonar.host.url>http://13.234.35.103:9980/</sonar.host.url>
 	<sonar.login>squ_8a304b9bc8edd7af7f4e988041d5c21ab410d228</sonar.login>
          <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -24,13 +24,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>RihanaShaik3 Releases Nexus Repository</name>
-	      <url>http://3.111.196.218:9980/Rihana%20Shaik/repository/Icicibank-release/</url>
+	      <url>http://65.0.133.9:9980/Rihana%20Shaik/repository/Icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>RihanaShaik3 Snapshot Nexus Repository </name>
-	      <url>http://3.111.196.218:9980/Rihana%20Shaik/repository/Icicibank-snapshot/</url>
+	      <url>http://65.0.133.9:9980/Rihana%20Shaik/repository/Icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
